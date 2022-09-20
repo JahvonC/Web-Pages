@@ -1,0 +1,23 @@
+#purpose {
+    color: orange;
+}
+
+div {
+    border: 100px;
+    border-style: groove;
+
+}
+
+#picture {
+    margin-top: 250px;
+    border: 0ch;
+    
+}
+
+div #firstlink :hover {
+    color: hotpink;
+}
+
+body {
+    background-color: darkcyan;
+}
